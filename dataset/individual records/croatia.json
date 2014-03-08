@@ -1,0 +1,35 @@
+{
+	"id": 002,
+	"name": "Croatia",
+	"group": "Group A",
+	"area": "Europe",
+	"matches": [
+		{
+			"number": 1,
+			"teams": [
+				"Brazil",
+				"Croatia"
+			],
+			"time": "2014-06-12 15:00",
+			"location": "Sao Paulo"
+		},
+		{
+			"number": 18,
+			"teams": [
+				"Cameroon",
+				"Croatia"
+			],
+			"time": "2014-06-18 17:00",
+			"location": "Manaus"
+		},
+		{
+			"number": 34,
+			"teams": [
+				"Croatia",
+				"Mexico"
+			],
+			"time": "2014-06-23 15:00",
+			"location": "Recife"
+		}
+	]
+}

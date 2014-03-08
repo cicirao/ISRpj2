@@ -1,0 +1,36 @@
+{
+	"id": 024,
+	"name": "Nigeria",
+	"group": "Group F",
+	"area": "Africa",
+	"matches": [
+		{
+			"number": 12,
+			"teams": [
+				"Iran",
+				"Nigeria"
+			],
+			"time": "2014-06-16 12:00",
+			"location": "Curitiba"
+		},
+		{
+			
+			"number": 28,
+			"teams": [
+				"Nigeria",
+				"Bosnia and Herzegovina"
+			],
+			"time": "2014-06-21 17:00",
+			"location": "Cuiaba"
+		},
+		{
+			"number": 43,
+			"teams": [
+				"Nigeria",
+				"Argentina"
+			],
+			"time": "2014-06-25 11:00",
+			"location": "Porto Alegre"
+		}
+	]
+}

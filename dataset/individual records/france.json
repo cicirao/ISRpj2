@@ -1,0 +1,35 @@
+{
+	"id": 019,
+	"name": "France",
+	"group": "Group E",
+	"area": "Europe",
+	"matches": [
+		{
+			"number": 10,
+			"teams": [
+				"France",
+				"Honduras"
+			],
+			"time": "2014-06-15 14:00",
+			"location": "Porto Alegre"
+		},
+		{
+			"number": 25,
+			"teams": [
+				"Switzerland",
+				"France"
+			],
+			"time": "2014-06-20 14:00",
+			"location": "Salvador"
+		},
+		{
+			"number": 42,
+			"teams": [
+				"Ecuador",
+				"France"
+			],
+			"time": "2014-06-25 15:00",
+			"location": "Rio De Janeiro"
+		}
+	]
+}

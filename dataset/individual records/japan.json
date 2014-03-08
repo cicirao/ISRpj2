@@ -1,0 +1,35 @@
+{
+	"id": 012,
+	"name": "Japan",
+	"group": "Group C",
+	"area": "Asia",
+	"matches": [
+		{
+			"number": 6,
+			"teams": [
+				"Côte d'Ivoire",
+				"Japan"
+			],
+			"time": "2014-06-14 20:00",
+			"location": "Recife"
+		},
+		{
+			"number": 22,
+			"teams": [
+				"Japan",
+				"Greece"
+			],
+			"time": "2014-06-19 17:00",
+			"location": "Natal"
+		},
+		{
+			"number": 37,
+			"teams": [
+				"Japan",
+				"Colombia"
+			],
+			"time": "2014-06-24 15:00",
+			"location": "Cuiaba"
+		}
+	]
+}

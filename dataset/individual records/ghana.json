@@ -1,0 +1,35 @@
+{
+	"id": 027,
+	"name": "Ghana",
+	"group": "Group G",
+	"area": "Africa",
+	"matches": [
+		{
+			"number": 14,
+			"teams": [
+				"Ghana",
+				"USA"
+			],
+			"time": "2014-06-16 17:00",
+			"location": "Natal"
+		},
+		{
+			"number": 29,
+			"teams": [
+				"Germany",
+				"Ghana"
+			],
+			"time": "2014-06-21 14:00",
+			"location": "Fortaleza"
+		},
+		{
+			"number": 46,
+			"teams": [
+				"Portugal",
+				"Ghana"
+			],
+			"time": "2014-06-26 11:00",
+			"location": "Brasilia"
+		}
+	]
+}

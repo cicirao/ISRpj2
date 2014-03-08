@@ -1,0 +1,35 @@
+{
+	"id": 030,
+	"name": "Algeria",
+	"group": "Group H",
+	"area": "Africa",
+	"matches": [
+		{
+			"number": 15,
+			"teams": [
+				"Belgium",
+				"Algeria"
+			],
+			"time": "2014-06-17 11:00",
+			"location": "Belo Horizonte"
+		},
+		{
+			"number": 32,
+			"teams": [
+				"Korea Republic",
+				"Algeria"
+			],
+			"time": "2014-06-22 14:00",
+			"location": "Porto Alegre"
+		},
+		{
+			"number": 48,
+			"teams": [
+				"Algeria",
+				"Russia"
+			],
+			"time": "2014-06-26 15:00",
+			"location": "Curitiba"
+		}
+	]
+}

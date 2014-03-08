@@ -1,0 +1,35 @@
+{
+	"id": 003,
+	"name": "Mexico",
+	"group": "Group A",
+	"area": "North and Central America",
+	"matches": [
+		{
+			"number": 2,
+			"teams": [
+				"Mexico",
+				"Cameroon"
+			],
+			"time": "2014-06-13 11:00",
+			"location": "Natal"
+		},
+		{
+			"number": 17,
+			"teams": [
+				"Brazil",
+				"Mexico"
+			],
+			"time": "2014-06-17 14:00",
+			"location": "Fortaleza"
+		},
+		{
+			"number": 34,
+			"teams": [
+				"Croatia",
+				"Mexico"
+			],
+			"time": "2014-06-23 15:00",
+			"location": "Recife"
+		}
+	]
+}

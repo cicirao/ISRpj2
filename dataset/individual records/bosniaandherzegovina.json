@@ -1,0 +1,35 @@
+{
+	"id": 022,
+	"name": "Bosnia and Herzegovina",
+	"group": "Group F",
+	"area": "Europe",
+	"matches": [
+		{
+			"number": 11,
+			"teams": [
+				"Argentina",
+				"Bosnia and Herzegovina"
+			],
+			"time": "2014-06-15 17:00",
+			"location": "Rio De Janeiro"
+		},
+		{
+			"number": 28,
+			"teams": [
+				"Nigeria",
+				"Bosnia and Herzegovina"
+			],
+			"time": "2014-06-21 17:00",
+			"location": "Cuiaba"
+		},
+		{
+			"number": 44,
+			"teams": [
+				"Bosnia and Herzegovina",
+				"Iran"
+			],
+			"time": "2014-06-25 11:00",
+			"location": "Salvador"
+		}
+	]
+}

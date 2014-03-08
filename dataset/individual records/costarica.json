@@ -1,0 +1,35 @@
+{
+	"id": 014,
+	"name": "Costa Rica",
+	"group": "Group D",
+	"area": "North and Central America",
+	"matches": [
+		{
+			"number": 7,
+			"teams": [
+				"Uruguay",
+				"Costa Rica"
+			],
+			"time": "2014-06-14 14:00",
+			"location": "Fortaleza"
+		},
+		{
+			"number": 24,
+			"teams": [
+				"Italy",
+				"Costa Rica"
+			],
+			"time": "2014-06-20 11:00",
+			"location": "Recife"
+		},
+		{
+			"number": 40,
+			"teams": [
+				"Costa Rica",
+				"England"
+			],
+			"time": "2014-06-24 11:00",
+			"location": "Belo Horizonte"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"id": 013,
+	"name": "Uruguay",
+	"group": "Group D",
+	"area": "South America",
+	"matches": [
+		{
+			"number": 7,
+			"teams": [
+				"Uruguay",
+				"Costa Rica"
+			],
+			"time": "2014-06-14 14:00",
+			"location": "Fortaleza"
+		},
+		{
+			"number": 23,
+			"teams": [
+				"Uruguay",
+				"England"
+			],
+			"time": "2014-06-19 14:00",
+			"location": "Sao Paulo"
+		},
+		{
+			"number": 39,
+			"teams": [
+				"Italy",
+				"Uruguay"
+			],
+			"time": "2014-06-24 11:00",
+			"location": "Natal"
+		}
+	]
+}

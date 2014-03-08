@@ -1,0 +1,35 @@
+{
+	"id": 018,
+	"name": "Ecuador",
+	"group": "Group E",
+	"area": "South America",
+	"matches": [
+		{
+			"number": 9,
+			"teams": [
+				"Switzerland",
+				"Ecuador"
+			],
+			"time": "2014-06-12 15:00",
+			"location": "Brasilia"
+		},
+		{
+			"number": 26,
+			"teams": [
+				"Honduras",
+				"Ecuador"
+			],
+			"time": "2014-06-20 17:00",
+			"location": "Curitiba"
+		},
+		{
+			"number": 42,
+			"teams": [
+				"Ecuador",
+				"France"
+			],
+			"time": "2014-06-25 15:00",
+			"location": "Rio De Janeiro"
+		}
+	]
+}

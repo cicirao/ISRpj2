@@ -1,0 +1,35 @@
+{
+	"id": 028,
+	"name": "USA",
+	"group": "Group G",
+	"area": "North and Central America",
+	"matches": [
+		{
+			"number": 14,
+			"teams": [
+				"Ghana",
+				"USA"
+			],
+			"time": "2014-06-16 17:00",
+			"location": "Natal"
+		},
+		{
+			"number": 30,
+			"teams": [
+				"USA",
+				"Portugal"
+			],
+			"time": "2014-06-22 17:00",
+			"location": "Manaus"
+		},
+		{
+			"number": 45,
+			"teams": [
+				"USA",
+				"Germany"
+			],
+			"time": "2014-06-26 11:00",
+			"location": "Recife"
+		}
+	]
+}

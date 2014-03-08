@@ -1,0 +1,35 @@
+{
+	"id": 001,
+	"name": "Brazil",
+	"group": "Group A",
+	"area": "South America",
+	"matches": [
+		{
+			"number": 1,
+			"teams": [
+				"Brazil",
+				"Croatia"
+			],
+			"time": "2014-06-12 15:00",
+			"location": "Sao Paulo"
+		},
+		{
+			"number": 17,
+			"teams": [
+				"Brazil",
+				"Mexico"
+			],
+			"time": "2014-06-17 14:00",
+			"location": "Fortaleza"
+		},
+		{
+			"number": 33,
+			"teams": [
+				"Cameroon",
+				"Brazil"
+			],
+			"time": "2014-06-23 15:00",
+			"location": "Brasilia"
+		}
+	]
+}

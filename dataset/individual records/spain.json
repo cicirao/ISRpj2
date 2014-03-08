@@ -1,0 +1,35 @@
+{
+	"id": 005,
+	"name": "Spain",
+	"group": "Group B",
+	"area": "Europe",
+	"matches": [
+		{
+			"number": 3,
+			"teams": [
+				"Spain",
+				"Netherlands"
+			],
+			"time": "2014-06-13 14:00",
+			"location": "Salvador"
+		},
+		{
+			"number": 19,
+			"teams": [
+				"Spain",
+				"Chile"
+			],
+			"time": "2014-06-18 14:00",
+			"location": "Rio De Janeiro"
+		},
+		{
+			"number": 35,
+			"teams": [
+				"Australia",
+				"Spain"
+			],
+			"time": "2014-06-23 11:00",
+			"location": "Curitiba"
+		}
+	]
+}

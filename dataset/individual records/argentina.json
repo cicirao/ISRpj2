@@ -1,0 +1,35 @@
+{
+	"id": 021,
+	"name": "Argentina",
+	"group": "Group F",
+	"area": "South America",
+	"matches": [
+		{
+			"number": 11,
+			"teams": [
+				"Argentina",
+				"Bosnia and Herzegovina"
+			],
+			"time": "2014-06-15 17:00",
+			"location": "Rio De Janeiro"
+		},
+		{
+			"number": 27,
+			"teams": [
+				"Argentina",
+				"Iran"
+			],
+			"time": "2014-06-21 11:00",
+			"location": "Belo Horizonte"
+		},
+		{
+			"number": 43,
+			"teams": [
+				"Nigeria",
+				"Argentina"
+			],
+			"time": "2014-06-25 11:00",
+			"location": "Porto Alegre"
+		}
+	]
+}

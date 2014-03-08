@@ -1,0 +1,35 @@
+{
+	"id": 026,
+	"name": "Portugal",
+	"group": "Group G",
+	"area": "Europe",
+	"matches": [
+		{
+			"number": 13,
+			"teams": [
+				"Germany",
+				"Portugal"
+			],
+			"time": "2014-06-16 11:00",
+			"location": "Salvador"
+		},
+		{
+			"number": 30,
+			"teams": [
+				"USA",
+				"Portugal"
+			],
+			"time": "2014-06-22 17:00",
+			"location": "Manaus"
+		},
+		{
+			"number": 46,
+			"teams": [
+				"Portugal",
+				"Ghana"
+			],
+			"time": "2014-06-26 11:00",
+			"location": "Brasilia"
+		}
+	]
+}

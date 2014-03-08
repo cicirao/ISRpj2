@@ -1,0 +1,35 @@
+{
+	"id": 023,
+	"name": "Iran",
+	"group": "Group F",
+	"area": "Asia",
+	"matches": [
+		{
+			"number": 12,
+			"teams": [
+				"Iran",
+				"Nigeria"
+			],
+			"time": "2014-06-16 12:00",
+			"location": "Curitiba"
+		},
+		{
+			"number": 27,
+			"teams": [
+				"Argentina",
+				"Iran"
+			],
+			"time": "2014-06-21 11:00",
+			"location": "Belo Horizonte"
+		},
+		{
+			"number": 44,
+			"teams": [
+				"Bosnia and Herzegovina",
+				"Iran"
+			],
+			"time": "2014-06-25 11:00",
+			"location": "Salvador"
+		}
+	]
+}

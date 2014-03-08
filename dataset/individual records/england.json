@@ -1,0 +1,35 @@
+{
+	"id": 015,
+	"name": "England",
+	"group": "Group D",
+	"area": "Europe",
+	"matches": [
+		{
+			"number": 8,
+			"teams": [
+				"England",
+				"Italy"
+			],
+			"time": "2014-06-14 17:00",
+			"location": "Manaus"
+		},
+		{
+			"number": 23,
+			"teams": [
+				"Uruguay",
+				"England"
+			],
+			"time": "2014-06-19 14:00",
+			"location": "Sao Paulo"
+		},
+		{
+			"number": 40,
+			"teams": [
+				"Costa Rica",
+				"England"
+			],
+			"time": "2014-06-24 11:00",
+			"location": "Belo Horizonte"
+		}
+	]
+}

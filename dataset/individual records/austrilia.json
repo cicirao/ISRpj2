@@ -1,0 +1,35 @@
+{
+	"id": 008,
+	"name": "Australia",
+	"group": "Group B",
+	"area": "Asia",
+	"matches": [
+		{
+			"number": 4,
+			"teams": [
+				"Chile",
+				"Australia"
+			],
+			"time": "2014-06-13 17:00",
+			"location": "Cuiaba"
+		},
+		{
+			"number": 20,
+			"teams": [
+				"Australia",
+				"Netherlands"
+			],
+			"time": "2014-06-18 11:00",
+			"location": "Porto Alegre"
+		},
+		{
+			"number": 35,
+			"teams": [
+				"Australia",
+				"Spain"
+			],
+			"time": "2014-06-23 11:00",
+			"location": "Curitiba"
+		}
+	]
+}

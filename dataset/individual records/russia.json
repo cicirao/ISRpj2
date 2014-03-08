@@ -1,0 +1,35 @@
+{
+	"id": 031,
+	"name": "Russia",
+	"group": "Group H",
+	"area": "Europe",
+	"matches": [
+		{
+			"number": 16,
+			"teams": [
+				"Russia",
+				"Korea Republic"
+			],
+			"time": "2014-06-17 17:00",
+			"location": "Cuiaba"
+		},
+		{
+			"number": 31,
+			"teams": [
+				"Belgium",
+				"Russia"
+			],
+			"time": "2014-06-22 11:00",
+			"location": "Rio De Janeiro"
+		},
+		{
+			"number": 48,
+			"teams": [
+				"Algeria",
+				"Russia"
+			],
+			"time": "2014-06-26 15:00",
+			"location": "Curitiba"
+		}
+	]
+}

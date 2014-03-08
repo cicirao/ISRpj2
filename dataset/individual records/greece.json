@@ -1,0 +1,35 @@
+{
+	"id": 010,
+	"name": "Greece",
+	"group": "Group C",
+	"area": "Europe",
+	"matches": [
+		{
+			"number": 5,
+			"teams": [
+				"Colombia",
+				"Greece"
+			],
+			"time": "2014-06-14 11:00",
+			"location": "Belo Horizonte"
+		},
+		{
+			"number": 22,
+			"teams": [
+				"Japan",
+				"Greece"
+			],
+			"time": "2014-06-19 17:00",
+			"location": "Natal"
+		},
+		{
+			"number": 38,
+			"teams": [
+				"Greece",
+				"Côte d'Ivoire"
+			],
+			"time": "2014-06-24 15:00",
+			"location": "Fortaleza"
+		}
+	]
+}

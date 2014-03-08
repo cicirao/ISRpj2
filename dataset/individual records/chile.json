@@ -1,0 +1,35 @@
+{
+	"id": 007,
+	"name": "Chile",
+	"group": "Group B",
+	"area": "South America",
+	"matches": [
+		{
+			"number": 4,
+			"teams": [
+				"Chile",
+				"Australia"
+			],
+			"time": "2014-06-13 17:00",
+			"location": "Cuiaba"
+		},
+		{
+			"number": 19,
+			"teams": [
+				"Spain",
+				"Chile"
+			],
+			"time": "2014-06-18 14:00",
+			"location": "Rio De Janeiro"
+		},
+		{
+			"number": 36,
+			"teams": [
+				"Netherlands",
+				"Chile"
+			],
+			"time": "2014-06-23 11:00",
+			"location": "Sao Paulo"
+		}
+	]
+}

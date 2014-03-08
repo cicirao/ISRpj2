@@ -1,0 +1,35 @@
+{
+	"id": 009,
+	"name": "Colombia",
+	"group": "Group C",
+	"area": "South America",
+	"matches": [
+		{
+			"number": 5,
+			"teams": [
+				"Colombia",
+				"Greece"
+			],
+			"time": "2014-06-14 11:00",
+			"location": "Belo Horizonte"
+		},
+		{
+			"number": 21,
+			"teams": [
+				"Colombia",
+				"Côte d'Ivoire"
+			],
+			"time": "2014-06-19 11:00",
+			"location": "Brasilia"
+		},
+		{
+			"number": 37,
+			"teams": [
+				"Japan",
+				"Colombia"
+			],
+			"time": "2014-06-24 15:00",
+			"location": "Cuiaba"
+		}
+	]
+}

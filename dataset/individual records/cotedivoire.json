@@ -1,0 +1,35 @@
+{
+	"id": 011,
+	"name": "Côte d'Ivoire",
+	"group": "Group C",
+	"area": "Africa",
+	"matches": [
+		{
+			"number": 6,
+			"teams": [
+				"Côte d'Ivoire",
+				"Japan"
+			],
+			"time": "2014-06-14 20:00",
+			"location": "Recife"
+		},
+		{
+			"number": 21,
+			"teams": [
+				"Colombia",
+				"Côte d'Ivoire"
+			],
+			"time": "2014-06-19 11:00",
+			"location": "Brasilia"
+		},
+		{
+			"number": 38,
+			"teams": [
+				"Greece",
+				"Côte d'Ivoire"
+			],
+			"time": "2014-06-24 15:00",
+			"location": "Fortaleza"
+		}
+	]
+}

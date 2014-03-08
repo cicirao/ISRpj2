@@ -1,0 +1,35 @@
+{
+	"id": 020,
+	"name": "Honduras",
+	"group": "Group E",
+	"area": "North and Central America",
+	"matches": [
+		{
+			"number": 10,
+			"teams": [
+				"France",
+				"Honduras"
+			],
+			"time": "2014-06-15 14:00",
+			"location": "Porto Alegre"
+		},
+		{
+			"number": 26,
+			"teams": [
+				"Honduras",
+				"Ecuador"
+			],
+			"time": "2014-06-20 17:00",
+			"location": "Curitiba"
+		},
+		{
+			"number": 41,
+			"teams": [
+				"Honduras",
+				"Switzerland"
+			],
+			"time": "2014-06-25 15:00",
+			"location": "Manaus"
+		}
+	]
+}

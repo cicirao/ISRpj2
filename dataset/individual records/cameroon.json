@@ -1,0 +1,35 @@
+{
+	"id": 004,
+	"name": "Cameroon",
+	"group": "Group A",
+	"area": "Africa",
+	"matches": [
+		{
+			"number": 2,
+			"teams": [
+				"Mexico",
+				"Cameroon"
+			],
+			"time": "2014-06-13 11:00",
+			"location": "Natal"
+		},
+		{
+			"number": 18,
+			"teams": [
+				"Cameroon",
+				"Croatia"
+			],
+			"time": "2014-06-18 17:00",
+			"location": "Manaus"
+		},
+		{
+			"number": 33,
+			"teams": [
+				"Cameroon",
+				"Brazil"
+			],
+			"time": "2014-06-23 15:00",
+			"location": "Brasilia"
+		}
+	]
+}
